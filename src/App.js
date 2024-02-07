@@ -64,7 +64,7 @@ export default class App extends Component {
                 humidityValue = {this.state.humidityValue}
                 isServerConnected = {this.state.isServerConnected}
                 isPotConnected = {this.state.isPotConnected}
-                humidity = {this.state.humidity}
+                HappyNewYear
                 tempurature= {this.state.tempurature}
                 lightness= {this.state.lightness}
                 weight= {this.state.weight}
