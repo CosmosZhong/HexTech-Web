@@ -42,6 +42,7 @@ export default class App extends Component {
         if (res.status == 200) {
           console.log("server is online")
           this.setState({ isServerConnected: true })
+          :)
         }
       })
       .catch((err) => console.log(err))
